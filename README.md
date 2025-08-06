@@ -16,6 +16,7 @@ This project was built from scratch using real-world-like sales data for mobile 
 |------|-------------|
 | `sales_analysis_project.xlsx` | The complete Excel file containing raw data, pivot tables, and dashboard |
 | `README.md` | This file explaining the project from start to finish |
+| `images/` | Folder containing project screenshots for README |
 
 ---
 
@@ -33,6 +34,12 @@ This project was built from scratch using real-world-like sales data for mobile 
 - Cleaned data to ensure consistency in formatting, date types, and numeric fields.
 - Removed unnecessary blank rows/columns and standardized headers.
 
+📸 **Raw Data Sample:**
+
+![Raw Data](images/raw_data.png)
+
+---
+
 ### 2. 📈 Data Analysis Using Pivot Tables (Sheet: `PIVOT TABLES`)
 - Created multiple pivot tables to analyze:
   - Total Revenue per Phone Brand
@@ -42,6 +49,12 @@ This project was built from scratch using real-world-like sales data for mobile 
   - Region-wise Sales Performance
 - Used slicers to enable easy filtering by date, brand, and salesperson.
 
+📸 **Pivot Table Example:**
+
+![Pivot Table Summary](images/pivot_summary.png)
+
+---
+
 ### 3. 📊 Dashboard Design (Sheet: `DASHBOARD`)
 - Built a visually interactive dashboard using:
   - Pivot charts (bar, column, and line graphs)
@@ -50,6 +63,12 @@ This project was built from scratch using real-world-like sales data for mobile 
     - Brand
     - Salesperson
 - Applied formatting, chart titles, conditional highlights for high performance.
+
+📸 **Dashboard Preview:**
+
+![Dashboard](images/dashboard.png)
+
+---
 
 ### 4. 🧩 Interpretation of Insights
 - Identified the top-performing salesperson and phone type.
@@ -109,4 +128,3 @@ This project was designed to:
 - Show end-to-end thinking from data cleaning to decision-making
 
 > If you're a recruiter or collaborator interested in Excel, data analytics, or dashboarding, feel free to reach out!
-
