@@ -36,7 +36,8 @@ This project was built from scratch using real-world-like sales data for mobile 
 
 📸 **Raw Data Sample:**
 
-![Raw Data](images/raw_data.png)
+![Raw Data](https://github.com/xzibitetok/Xzibit-Sales-Analysis/blob/main/raw_data.png)
+![Raw Data](https://github.com/xzibitetok/Xzibit-Sales-Analysis/blob/main/raw_data%202.png)
 
 ---
 
@@ -51,7 +52,8 @@ This project was built from scratch using real-world-like sales data for mobile 
 
 📸 **Pivot Table Example:**
 
-![Pivot Table Summary](images/pivot_summary.png)
+![Pivot Table Summary](https://github.com/xzibitetok/Xzibit-Sales-Analysis/blob/main/pivot_summary.png)
+![Pivot Table Summary](https://github.com/xzibitetok/Xzibit-Sales-Analysis/blob/main/pivot_summary%202.png)
 
 ---
 
@@ -66,7 +68,7 @@ This project was built from scratch using real-world-like sales data for mobile 
 
 📸 **Dashboard Preview:**
 
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/xzibitetok/Xzibit-Sales-Analysis/blob/main/dashboard.png)
 
 ---
 
