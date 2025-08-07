@@ -15,8 +15,8 @@ This project was built from scratch using real-world-like sales data for mobile 
 | File | Description |
 |------|-------------|
 | `sales_analysis_project.xlsx` | The complete Excel file containing raw data, pivot tables, and dashboard |
-| `README.md` | This file explaining the project from start to finish |
-| `images/` | Folder containing project screenshots for README |
+| [README]( https://github.com/xzibitetok/Xzibit-Sales-Analysis/edit/main/README.md) | This file explaining the project from start to finish |
+| [Images](https://github.com/xzibitetok/Xzibit-Sales-Analysis/tree/main/images) | Folder containing project screenshots for README |
 
 ---
 
