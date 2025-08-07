@@ -118,7 +118,7 @@ This project was built from scratch using real-world-like sales data for mobile 
 **Ubong Etok**  
 A data analyst passionate about transforming raw data into valuable insights.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ubong-etok-56b4a0170) • [GitHub](#) • [Email](mailto:ubyetok@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/ubong-etok-56b4a0170) • [GitHub](https://github.com/xzibitetok) • [Facebook](https://www.facebook.com/uby.etok.5) • [Email](mailto:ubyetok@gmail.com)
 
 ---
 
